@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW" : "GSr76Qn4SDWTbCd",
+        "CLOUDINARY_URL" : "cloudinary://886384487154462:VdJx0Dlk4W87nrHjMS3YiTXSWq0@dimdl7fb7"
+    }
+}
